@@ -1,0 +1,7 @@
+/NLP/multi_class_lstm/data
+/AI_traffic
+/pytorch/PetImages
+/pytorch/self-driving-car
+*.txt
+*.jpg
+*.png
